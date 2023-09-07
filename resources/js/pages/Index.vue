@@ -1,0 +1,3 @@
+<template>
+    Indexas
+</template>
